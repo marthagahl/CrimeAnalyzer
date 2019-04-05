@@ -81,6 +81,7 @@ namespace CrimeAnalyzer
             //
             string content = "";
 
+
             //Questions 1 and 2
             var years = from a in crimeStatsList
                         select a.year;
@@ -114,7 +115,6 @@ namespace CrimeAnalyzer
                     content = content + "\n";
                 }
                 numb++;
-
             }
 
 
@@ -206,9 +206,6 @@ namespace CrimeAnalyzer
 
             content = content + "Year of highest number of motor vehicle thefts: " + motor + "\n";
 
- 
-
-            Console.WriteLine(content);
 
             //
             //Write content to output file
@@ -231,8 +228,6 @@ namespace CrimeAnalyzer
                 }
             }
         }
-
-
 
         static bool IsValid(string doc)
         {

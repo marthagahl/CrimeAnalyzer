@@ -3,6 +3,7 @@
 /Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/CrimeAnalyzer/CrimeAnalyzer/bin/Release/netcoreapp2.1/CrimeAnalyzer.runtimeconfig.dev.json
 /Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/CrimeAnalyzer/CrimeAnalyzer/bin/Release/netcoreapp2.1/CrimeAnalyzer.dll
 /Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/CrimeAnalyzer/CrimeAnalyzer/bin/Release/netcoreapp2.1/CrimeAnalyzer.pdb
+/Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/CrimeAnalyzer/CrimeAnalyzer/obj/Release/netcoreapp2.1/CrimeAnalyzer.csprojAssemblyReference.cache
 /Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/CrimeAnalyzer/CrimeAnalyzer/obj/Release/netcoreapp2.1/CrimeAnalyzer.csproj.CoreCompileInputs.cache
 /Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/CrimeAnalyzer/CrimeAnalyzer/obj/Release/netcoreapp2.1/CrimeAnalyzer.AssemblyInfoInputs.cache
 /Users/marthagahl/Documents/2018-2019/InfoTec2040/Projects/CrimeAnalyzer/CrimeAnalyzer/obj/Release/netcoreapp2.1/CrimeAnalyzer.AssemblyInfo.cs
