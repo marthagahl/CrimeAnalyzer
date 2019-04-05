@@ -1,0 +1,12 @@
+Period: 1994 - 2013 (20 years)
+
+Years murders per year < 15000: 2010, 2011, 2012, 2013
+Robberies per year > 500000: 1994 = 618949, 1995 = 580509, 1996 = 535594
+Violent crime per capita rate (2010): 0.0040450234834638
+Average murders per year (all years): 16864.25
+Average murders per year (1994-1997): 20696.25
+Average murders per year (2010-2013): 14608.75
+Minimum thefts per year (1999-2004): 6937089
+Maximum thefts per year (1999-2004): 7092267
+Year of highest number of motor vehicle thefts: 1994
+
